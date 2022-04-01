@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="cellCompetitorProblem.cs" />
+    <Compile Remove="Es_PalindromeNumber.cs" />
+    <Compile Remove="Es_Roman_to_Integer.cs" />
+    <Compile Remove="FibonacchiSeries.cs" />
+    <Compile Remove="FindSum.cs" />
+    <Compile Remove="multiplier_problem.cs" />
+    <Compile Remove="Palindrome.cs" />
+    <Compile Remove="Program.cs" />
+    <Compile Remove="reverseInteger.cs" />
+    <Compile Remove="RomanToInteger.cs" />
+    <Compile Remove="twoSum.cs" />
+  </ItemGroup>
+
+</Project>
