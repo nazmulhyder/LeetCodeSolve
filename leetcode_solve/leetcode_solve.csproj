@@ -7,8 +7,13 @@
 
   <ItemGroup>
     <Compile Remove="cellCompetitorProblem.cs" />
+    <Compile Remove="Es_26_RemoveDuplicate.cs" />
+    <Compile Remove="Es_27_RemoveElement.cs" />
+    <Compile Remove="Es_LongestCommonPrefix.cs" />
+    <Compile Remove="Es_MergeTwoSortedLists.cs" />
     <Compile Remove="Es_PalindromeNumber.cs" />
     <Compile Remove="Es_Roman_to_Integer.cs" />
+    <Compile Remove="Es_ValidParentheses.cs" />
     <Compile Remove="FibonacchiSeries.cs" />
     <Compile Remove="FindSum.cs" />
     <Compile Remove="multiplier_problem.cs" />
