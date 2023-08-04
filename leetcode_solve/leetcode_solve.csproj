@@ -7,6 +7,7 @@
 
   <ItemGroup>
     <Compile Remove="cellCompetitorProblem.cs" />
+    <Compile Remove="Esy66_PlusOne.cs" />
     <Compile Remove="Es_26_RemoveDuplicate.cs" />
     <Compile Remove="Es_27_RemoveElement.cs" />
     <Compile Remove="Es_28_Implement_strStr.cs" />
