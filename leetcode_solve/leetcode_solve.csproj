@@ -7,7 +7,12 @@
 
   <ItemGroup>
     <Compile Remove="cellCompetitorProblem.cs" />
+    <Compile Remove="Es118_PascalTriangle.cs" />
+    <Compile Remove="Es509_Fibonacci.cs" />
     <Compile Remove="Es67_AddBinary.cs" />
+    <Compile Remove="Es70_ClimbingStairs.cs" />
+    <Compile Remove="Es83_RemoveDuplicate.cs" />
+    <Compile Remove="Es88_MergeSortedArray.cs" />
     <Compile Remove="Esy66_PlusOne.cs" />
     <Compile Remove="Es_26_RemoveDuplicate.cs" />
     <Compile Remove="Es_27_RemoveElement.cs" />
