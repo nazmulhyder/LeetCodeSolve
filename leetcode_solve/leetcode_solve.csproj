@@ -8,6 +8,8 @@
   <ItemGroup>
     <Compile Remove="cellCompetitorProblem.cs" />
     <Compile Remove="Es118_PascalTriangle.cs" />
+    <Compile Remove="Es119_PascalTriangle2.cs" />
+    <Compile Remove="Es121_MaxProfit.cs" />
     <Compile Remove="Es509_Fibonacci.cs" />
     <Compile Remove="Es67_AddBinary.cs" />
     <Compile Remove="Es70_ClimbingStairs.cs" />
