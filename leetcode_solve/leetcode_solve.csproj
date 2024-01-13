@@ -13,6 +13,7 @@
     <Compile Remove="Es125_ValidPalindrome.cs" />
     <Compile Remove="Es136_SingleNumber.cs" />
     <Compile Remove="Es169_MajorityElement.cs" />
+    <Compile Remove="Es190_ReverseBits.cs" />
     <Compile Remove="Es509_Fibonacci.cs" />
     <Compile Remove="Es67_AddBinary.cs" />
     <Compile Remove="Es70_ClimbingStairs.cs" />
