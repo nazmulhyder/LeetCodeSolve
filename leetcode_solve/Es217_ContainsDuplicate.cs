@@ -32,7 +32,7 @@ namespace leetcode_solve
               .Select(y => y.Key)
               .ToList();
 
-            return IsContainDuplicate;
+            return query.Count() == 0? false :true;
         }
     }
 }
